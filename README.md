@@ -6,7 +6,6 @@ This project focuses on **Sentiment Analysis of TripAdvisor Hotel Reviews** usin
 
 🔗 **Dataset Source:** [Kaggle - TripAdvisor Hotel Reviews](https://www.kaggle.com/datasets/andrewmvd/trip-advisor-hotel-reviews/data)\
 🔗 **Application Deployment:** [Hugging Face Spaces](https://huggingface.co/spaces/AzkaIrsyad/SentimenAnalysist_TripAdvisor)\
-🔗 **Model Improvements:** [Google Drive](https://drive.google.com/drive/folders/1MHjBiDE4f1jlib2fVPLhY99iDoiSqamQ?usp=sharing)
 
 ---
 
