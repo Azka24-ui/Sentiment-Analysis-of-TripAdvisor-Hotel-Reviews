@@ -1,0 +1,5 @@
+https://huggingface.co/spaces/AzkaIrsyad/SentimenAnalysist_TripAdvisor
+https://www.kaggle.com/datasets/andrewmvd/trip-advisor-hotel-reviews/data
+
+model improvement
+https://drive.google.com/drive/folders/1MHjBiDE4f1jlib2fVPLhY99iDoiSqamQ?usp=sharing
